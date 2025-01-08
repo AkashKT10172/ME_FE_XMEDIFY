@@ -1,10 +1,10 @@
 // CRIO_SOLUTION_START_MODULE_ONE
 import { Box, Grid, Typography } from "@mui/material";
-import doctorIcon from "../../assets/Doctor.png";
-import pharmacyIcon from "../../assets/Drugstore.png";
-import hospitalIcon from "../../assets/Hospital.png";
-import capsuleIcon from "../../assets/Capsule.png";
-import ambulanceIcon from "../../assets/Ambulance.png";
+import doctorIcon from "../../assets/Doctor.jpg";
+import pharmacyIcon from "../../assets/Drugstore.jpg";
+import hospitalIcon from "../../assets/Hospital.jpg";
+import capsuleIcon from "../../assets/Capsule.jpg";
+import ambulanceIcon from "../../assets/Ambulance.jpg";
 import IconCard from "../IconCard/IconCard";
 import { useMemo } from "react";
 

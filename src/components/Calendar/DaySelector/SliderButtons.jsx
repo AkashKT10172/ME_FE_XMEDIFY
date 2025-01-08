@@ -1,7 +1,7 @@
 // CRIO_SOLUTION_START_MODULE_ONE
 import { useSwiper } from 'swiper/react';
-import next from '../../../assets/next.png'
-import prev from '../../../assets/prev.png'
+import next from '../../../assets/next.jpg'
+import prev from '../../../assets/prev.jpg'
 import { Box } from '@mui/material';
 
 function SlidePrevButton() {

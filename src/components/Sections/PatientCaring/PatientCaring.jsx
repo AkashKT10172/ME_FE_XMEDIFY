@@ -1,7 +1,7 @@
 // CRIO_SOLUTION_START_MODULE_ONE
 import { Box, Container, Grid, List, ListItem, ListItemIcon, ListItemText, Typography } from "@mui/material";
-import banner from '../../../assets/patientcaring.png'
-import tick from '../../../assets/tick-blue.png'
+import banner from '../../../assets/patientcaring.jpg'
+import tick from '../../../assets/tick-blue.jpg'
 
 export default function PatientCaring() {
     return (
