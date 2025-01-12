@@ -9,9 +9,9 @@ GITLAB_UPLOAD_DESTINATION="GITLAB_CRIO_DO"
 
 # path to root folders - must exist
 #INPUT_PROJECT_ROOT_PATH="/home/arun/workspace/crio/"
-STUB_GENERATION="/Users/adars/Desktop/Crio/solution_and_stub_creator"
-INPUT_PROJECT_ROOT_PATH="/Users/adars/Desktop/Crio/ME_XMEDIFY"
-RESULTS_ROOT_FOLDER="/Users/adars/Desktop/Crio/result/xmedify"
+STUB_GENERATION="/home/akash/crio.Do-buildouts/solution_and_stub_creator"
+INPUT_PROJECT_ROOT_PATH="/home/akash/crio.Do-buildouts/me_xmedify"
+RESULTS_ROOT_FOLDER="/home/akash/crio.Do-buildouts/Result_folder"
 #INPUT_PROJECT_ROOT_PATH="/home/arun/workspace/crio/ME_INTERVIEW_PREP_JAVA/me_interview_prep_java"
 #RESULTS_ROOT_FOLDER="/home/arun/workspace/crio/ME_INTERVIEW_PREP_JAVA/solution_and_stubs"
 # additional needed files - must exist
@@ -52,7 +52,7 @@ commands=(
     "SOLUTION_GENERATOR"
     "INTERMEDIATE_STUBS_GENERATOR" 
     "FINAL_STUBS_GENERATOR"
-    # "GITLAB_UPLOAD"
+    "GITLAB_UPLOAD"
 )
 
 ######################################## COMMANDS ###############################################

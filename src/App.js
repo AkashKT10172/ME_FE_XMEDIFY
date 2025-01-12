@@ -17,6 +17,7 @@ function App() {
 
 export default App;
 // CRIO_SOLUTION_END_MODULE_ONE
+// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
 //it is the basic code of app.js provided be react
 //you can change it accoriding to your need
 
@@ -35,3 +36,4 @@ export default App;
 // }
 
 // export default App;
+// CRIO_SOLUTION_AND_STUB_ONLY_END_MODULE_ONE

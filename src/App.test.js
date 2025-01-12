@@ -8,3 +8,6 @@ test('renders learn react link', () => {
   expect(linkElement).toBeInTheDocument();
 });
 // CRIO_SOLUTION_END_MODULE_ONE
+// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
+  // this is the styles.css file.
+// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE

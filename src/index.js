@@ -146,6 +146,8 @@ root.render(
   </React.StrictMode>
 );
 // CRIO_SOLUTION_END_MODULE_ONE
+// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
+
 //it is the basic code that is provided by react
 //you can change it according to your need
 
@@ -160,3 +162,5 @@ root.render(
 //     <App />
 //   </React.StrictMode>
 // );
+
+// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
