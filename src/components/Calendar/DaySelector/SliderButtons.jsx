@@ -1,6 +1,3 @@
-// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
-  // start coding here!
-// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
 // CRIO_SOLUTION_START_MODULE_ONE
 import { useSwiper } from 'swiper/react';
 import next from '../../../assets/next.jpg'

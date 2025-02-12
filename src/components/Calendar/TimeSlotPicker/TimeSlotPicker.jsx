@@ -1,6 +1,3 @@
-// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
-  // start coding here!
-// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
 // CRIO_SOLUTION_START_MODULE_ONE
 import styled from "@emotion/styled";
 import { Chip, Stack, Typography, Divider } from "@mui/material";

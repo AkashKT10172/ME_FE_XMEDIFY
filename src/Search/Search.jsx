@@ -1,6 +1,3 @@
-// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
-  // this is the search.jsx file.
-// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
 // CRIO_SOLUTION_START_MODULE_ONE
 import { Container, Stack, Box, Typography } from "@mui/material";
 import axios from "axios";

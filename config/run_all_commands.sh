@@ -1,7 +1,7 @@
 #!/bin/bash
 ######################################## EDITABLE ###############################################
 # ME details
-ME_ID="FE_XMEDIFY"
+ME_ID="FE_XMEDIFY_V2"
 
 # gitlab details
 GITLAB_UPLOAD_DESTINATION="GITLAB_CRIO_DO"
