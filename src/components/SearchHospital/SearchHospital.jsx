@@ -121,6 +121,7 @@ export default function SearchHospital() {
 
       <Button
         type="submit"
+        id="searchBtn"
         variant="contained"
         size="large"
         startIcon={<SearchIcon />}
@@ -132,4 +133,5 @@ export default function SearchHospital() {
     </Box>
   );
 }
+
 // CRIO_SOLUTION_END_MODULE_ONE
